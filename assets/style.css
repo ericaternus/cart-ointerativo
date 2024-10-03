@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
